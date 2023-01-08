@@ -489,9 +489,9 @@ the website, in dark theme
 }
 
 /*=============== PRODUCTS ===============*/
-.product__description {
+ .product__description {
 	text-align: center;
-}
+} */
 
 .product__container {
 	padding: 3rem 0;
@@ -538,7 +538,7 @@ the website, in dark theme
 	background-color: var(--first-color-alt);
 }
 
-/* .product__circle {
+.product__circle {
 	width: 90px;
 	height: 90px;
 	background-color: var(--first-color-lighten);
@@ -546,11 +546,11 @@ the website, in dark theme
 	position: absolute;
 	top: 18%;
 	left: 5%;
-} */
+}
 
 .product__card:hover .product__img {
 	transform: translateY(-0.5rem);
-}
+} 
 
 /*=============== QUESTIONS ===============*/
 .questions {
